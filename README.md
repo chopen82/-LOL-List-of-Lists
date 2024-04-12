@@ -24,6 +24,7 @@
 - [ToT](https://github.com/kyegomez/tree-of-thoughts) - Tree of Thoughts (ToT) is a powerful and flexible algorithm that significantly advances model reasoning by up to 70%.
 - [mixtral](https://github.com/mistralai/cookbook) - The Mistral Cookbook features examples contributed by our community and partners.
 - [fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI.
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Praison AI, leveraging both AutoGen and CrewAI or any other agent framework, represents a low-code, centralised framework designed to simplify the creation and orchestration of multi-agent systems for various LLM applications, emphasizing ease of use, customization, and human-agent interaction.
 
 ## Nice huggingface texts/links
 - [moe](https://huggingface.co/blog/moe) - Mixture of Experts Explained.
