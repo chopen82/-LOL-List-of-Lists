@@ -5,25 +5,14 @@
 🔥 Here is a curated list of whatever i'm intetested with, just list of lists (LoL).
 
 ![](resources/magic.jpg)
-#The one
+
+# GenAI
+
 ## The best curated lists on internet
 - [LLM](https://github.com/Hannibal046/Awesome-LLM) - The most coprehensive list of Large Language Models.
 - [prompts](https://github.com/openai/openai-cookbook/blob/main/articles/related_resources.md) - OpenAI curated list of knowledge about prompting.
 
-## Python
-- [instructor](https://python.useinstructor.com/) - Structured outputs powered by llms. Designed for simplicity, transparency, and control.
-- [pydantic](https://docs.pydantic.dev/latest/) - Pydantic is the most widely used data validation library for Python.
-- [pypdfium](https://github.com/pypdfium2-team/pypdfium2) - An ABI-level Python 3 binding to PDFium, a powerful and liberal-licensed library for PDF rendering, inspection, manipulation and creation.
-- [polars](https://pola.rs/) - DataFrames forthe new era.
-
-## Databases
- - [memgraph](https://memgraph.com/) - Memgraph is 8x faster than Neo4j, which means lower bills, faster queries, and higher throughput.
- - [elastic](https://www.elastic.co/elasticsearch) - The heart of the free and open Elastic Stack.
- - [neo4j](https://neo4j.com/) - The only graph database with vector search.
- - [milvus](https://milvus.io/) - Vector database built for scalable similarity search.
- - [qdrant](https://qdrant.tech/) - Powering the next generation of AI applications with advanced and high-performant vector similarity search technology.
-
-## Nice github projects
+## Nice github projects/links
 - [Outlines](https://github.com/outlines-dev/outlines) - Project to produce valid json by LLMs.
 - [Knowledge](https://github.com/raphaelsty/knowledge) - Knowledge is a web application that automatically extract content you interact with from various social media platforms, including GitHub, HackerNews, Zotero, and Twitter.
 - [monolith](https://github.com/Y2Z/monolith) - Bundle any web page into a single HTML file.
@@ -32,7 +21,9 @@
 - [ragflow](https://github.com/infiniflow/ragflow) - Open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [outlines](https://github.com/outlines-dev/outlines) - Robust (structured) text generation.
 - [lumos](https://github.com/allenai/lumos) - Unified and Modular Training for Open-Source Language Agents.
-- [ToT](https://github.com/kyegomez/tree-of-thoughts) - Tree of Thoughts (ToT) is a powerful and flexible algorithm that significantly advances model reasoning by up to 70%. 
+- [ToT](https://github.com/kyegomez/tree-of-thoughts) - Tree of Thoughts (ToT) is a powerful and flexible algorithm that significantly advances model reasoning by up to 70%.
+- [mixtral](https://github.com/mistralai/cookbook) - The Mistral Cookbook features examples contributed by our community and partners.
+- [fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI.
 
 ## Nice huggingface texts/links
 - [moe](https://huggingface.co/blog/moe) - Mixture of Experts Explained.
@@ -62,12 +53,50 @@
 
 ## Youtube channels and videos
 - [dspy](https://www.youtube.com/watch?v=tVw3CwrN5-8) - Structured outputs with dspy.
+- [bergman](https://www.youtube.com/@matthew_berman) - Good overall AI channel.
+- [codeai](https://www.youtube.com/@code4AI) - Very detailed, mathematical and code heavy channel.
+
+## Other links
+ - [RLHF](https://huyenchip.com/2023/05/02/rlhf.html) - RLHF: Reinforcement Learning from Human Feedback.
+
+# Coding
+
+## Python
+- [instructor](https://python.useinstructor.com/) - Structured outputs powered by llms. Designed for simplicity, transparency, and control.
+- [pydantic](https://docs.pydantic.dev/latest/) - Pydantic is the most widely used data validation library for Python.
+- [pypdfium](https://github.com/pypdfium2-team/pypdfium2) - An ABI-level Python 3 binding to PDFium, a powerful and liberal-licensed library for PDF rendering, inspection, manipulation and creation.
+- [polars](https://pola.rs/) - DataFrames forthe new era.
 
 ## VS Code plugins
 - [thunder](https://www.thunderclient.com/) - Hand-crafted lightweight Rest Client for testing APIs.
 - [finditfaster](https://github.com/tomrijndorp/vscode-finditfaster) - Finds files and text within files, but faster than VS Code normally does.
+- [markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) - Visualize your Markdown with mindmaps.
 
-## Other links
- - [RLHF](https://huyenchip.com/2023/05/02/rlhf.html) - RLHF: Reinforcement Learning from Human Feedback.
+# Architecture
+
+## Orchestration, process flow or frameworks
+ - [nifi](https://nifi.apache.org/) - An easy to use, powerful, and reliable system to process and distribute data. 
+ - [mlflow](https://mlflow.org/) - Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform.
+ - [ludwig](https://ludwig.ai/latest/) - Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
+
+## Databases
+ - [memgraph](https://memgraph.com/) - Memgraph is 8x faster than Neo4j, which means lower bills, faster queries, and higher throughput.
+ - [elastic](https://www.elastic.co/elasticsearch) - The heart of the free and open Elastic Stack.
+ - [neo4j](https://neo4j.com/) - The only graph database with vector search.
+ - [milvus](https://milvus.io/) - Vector database built for scalable similarity search.
+ - [qdrant](https://qdrant.tech/) - Powering the next generation of AI applications with advanced and high-performant vector similarity search technology.
+
+## Youtube channels and videos
+ - [Steven Koon](https://www.youtube.com/@StevenKoon) - Very good channel on Apache NiFi.
+
+ ## Graphs
  - [graphviz](https://dreampuf.github.io/GraphvizOnline/) - Graphviz online.
- - []
+ - [markmap](https://markmap.js.org/) - Visualize your Markdown with mindmaps.
+ - [mermaid](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams.
+
+
+
+
+
+
+
