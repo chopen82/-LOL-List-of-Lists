@@ -57,6 +57,7 @@
 - [bergman](https://www.youtube.com/@matthew_berman) - Good overall AI channel.
 - [codeai](https://www.youtube.com/@code4AI) - Very detailed, mathematical and code heavy channel.
 - [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Very detailed, animation heavy channel.
+- [Dave Shapiro](https://www.youtube.com/@DaveShap) - Lots of detailed information about ML/AI, coding included.
 
 ## Other links
  - [RLHF](https://huyenchip.com/2023/05/02/rlhf.html) - RLHF: Reinforcement Learning from Human Feedback.
@@ -92,6 +93,7 @@
 
 ## Youtube channels and videos
  - [Steven Koon](https://www.youtube.com/@StevenKoon) - Very good channel on Apache NiFi.
+ - [CodingEntrepreneurs](https://www.youtube.com/@CodingEntrepreneurs) - Lots of programming tutorials.
 
  ## Graphs
  - [graphviz](https://dreampuf.github.io/GraphvizOnline/) - Graphviz online.
