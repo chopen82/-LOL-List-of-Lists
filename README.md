@@ -56,6 +56,7 @@
 - [dspy](https://www.youtube.com/watch?v=tVw3CwrN5-8) - Structured outputs with dspy.
 - [bergman](https://www.youtube.com/@matthew_berman) - Good overall AI channel.
 - [codeai](https://www.youtube.com/@code4AI) - Very detailed, mathematical and code heavy channel.
+- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Very detailed, animation heavy channel.
 
 ## Other links
  - [RLHF](https://huyenchip.com/2023/05/02/rlhf.html) - RLHF: Reinforcement Learning from Human Feedback.
@@ -67,6 +68,8 @@
 - [pydantic](https://docs.pydantic.dev/latest/) - Pydantic is the most widely used data validation library for Python.
 - [pypdfium](https://github.com/pypdfium2-team/pypdfium2) - An ABI-level Python 3 binding to PDFium, a powerful and liberal-licensed library for PDF rendering, inspection, manipulation and creation.
 - [polars](https://pola.rs/) - DataFrames forthe new era.
+- [streamlit](https://streamlit.io/) - Create frontend in python.
+- [django](https://www.djangoproject.com/) - Django makes it easier to build better web apps more quickly and with less code.
 
 ## VS Code plugins
 - [thunder](https://www.thunderclient.com/) - Hand-crafted lightweight Rest Client for testing APIs.
